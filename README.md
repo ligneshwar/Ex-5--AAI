@@ -60,8 +60,7 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/3385c679-453a-4b60-96e9-871cb6f23335" />
-
+![{E45CCC20-CC6F-4A41-B5F7-C30237FB52A5}](https://github.com/user-attachments/assets/5b2c53c0-9ed7-4823-9e98-84f519278e8f)
 
 <H3>Results:</H3>
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
