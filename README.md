@@ -60,6 +60,7 @@ plt.show()
 ```
 
 <H3>Output:</H3>
+
 ![{E45CCC20-CC6F-4A41-B5F7-C30237FB52A5}](https://github.com/user-attachments/assets/5b2c53c0-9ed7-4823-9e98-84f519278e8f)
 
 <H3>Results:</H3>
